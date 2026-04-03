@@ -1,0 +1,134 @@
+{
+  "sad": [
+    "I'm really sorry you're feeling this way.",
+    "That must be difficult. I'm here with you.",
+    "You are not alone. I’m listening.",
+    "It’s okay to cry sometimes. Let it out."
+  ],
+  "happy": [
+    "That's wonderful to hear!",
+    "Yay! Tell me more about it!",
+    "Happiness suits you!",
+    "Wow, that’s great. What made you happy?"
+  ],
+  "anxious": [
+    "It's okay to feel anxious sometimes.",
+    "Take a deep breath. You’re safe here.",
+    "Do you want to talk about what’s making you anxious?",
+    "Let’s try to work through that feeling together."
+  ],
+  "depressed": [
+    "I'm really sorry you're feeling this way.",
+    "I'm here for you. Would you like to talk more?",
+    "It's okay to feel low. You are not alone.",
+    "We can go slow. I'm here with you."
+  ],
+  "stress": [
+    "Stress can be overwhelming. I'm listening.",
+    "Want to talk about what’s stressing you out?",
+    "I'm here to support you through this.",
+    "Take a break, even a small one can help."
+  ],
+  "alone": [
+    "Even if it feels that way, you're not alone right now.",
+    "I’m here to talk to you.",
+    "That must feel isolating. Let's talk.",
+    "Loneliness is hard. I’ll keep you company."
+  ],
+  "angry": [
+    "It’s okay to feel angry. Do you want to share why?",
+    "Anger is natural. Let’s talk it through.",
+    "I’m here, no matter what you’re feeling.",
+    "Let’s take a breath together. Ready?"
+  ],
+  "confused": [
+    "It’s okay to feel confused. Can I help you sort it out?",
+    "Let’s try to figure things out together.",
+    "Talk to me, I’ll listen.",
+    "Confusion can be a step toward clarity."
+  ],
+  "tired": [
+    "Rest is important. Do you need a break?",
+    "You’ve been doing a lot. It’s okay to feel tired.",
+    "Maybe some rest will help clear your mind.",
+    "I'm proud of you for making it this far."
+  ],
+  "lonely": [
+    "I’m with you right now.",
+    "You’re not alone. I care about you.",
+    "Would it help to talk more?",
+    "I’m always here if you need to chat."
+  ],
+  "hopeless": [
+    "You may not see it now, but things can get better.",
+    "Let’s take it one step at a time together.",
+    "Hope can return, even in dark times.",
+    "You matter. Your story matters."
+  ],
+  "excited": [
+    "That's so exciting! Tell me more!",
+    "Yay! I’m happy for you!",
+    "That sounds like something great is coming.",
+    "It’s so good to hear your joy!"
+  ],
+  "grateful": [
+    "Gratitude is powerful. What are you thankful for today?",
+    "That’s a beautiful thing to appreciate.",
+    "Grateful hearts often see more joy.",
+    "It’s lovely that you’re feeling this way."
+  ],
+  "numb": [
+    "Feeling numb is okay. Emotions come and go.",
+    "You don’t have to feel something all the time.",
+    "Let’s sit in this moment together.",
+    "You’re doing your best, and that’s enough."
+  ],
+  "panic": [
+    "Try to breathe slowly with me.",
+    "You’re not alone. I’m here with you.",
+    "Let’s ground ourselves. Can you name 5 things you see?",
+    "You’re safe. This feeling will pass."
+  ],
+  "lost": [
+    "Let’s find your path again together.",
+    "It’s okay to not have all the answers.",
+    "You are not as lost as you think.",
+    "I’m here to walk with you through the fog."
+  ],
+  "broken": [
+    "Even broken pieces can be beautiful.",
+    "You’re not broken, just bent. Healing is possible.",
+    "Pain doesn’t define your worth.",
+    "You matter, even when it feels like you don’t."
+  ],
+  "thank you": [
+    "You’re welcome! I’m glad I could help.",
+    "Anytime. I’m here for you.",
+    "That means a lot. Thank you too!",
+    "I'm always happy to help."
+  ],
+  "hello": [
+    "Hi there! How are you feeling today?",
+    "Hello! I’m here to chat anytime.",
+    "Hey! What’s on your mind?",
+    "Hi, friend! Let's talk."
+  ],
+  "hi": [
+    "Hey! How’s it going?",
+    "Hi there! Want to share how you’re feeling?",
+    "Hello! What’s up?",
+    "Nice to see you here!"
+  ],
+  "bye": [
+    "Goodbye! Take care of yourself.",
+    "Talk to you soon. Stay safe.",
+    "Bye for now! You’re doing great.",
+    "See you later. Keep going."
+  ],
+  "help": [
+    "I’m here to help. What’s troubling you?",
+    "Let’s work through it together.",
+    "You’re not alone. I’ll do my best to help.",
+    "Help is just a conversation away."
+  ]
+}
